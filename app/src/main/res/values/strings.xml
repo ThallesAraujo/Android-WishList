@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="update_wish">Update wish</string>
+    <string name="add_wish">Add wish</string>
+    <string name="empty_wish_fields_error">Enter fields to create a wish</string>
+    <string name="wish_created_message">Wish has been created</string>
+</resources>

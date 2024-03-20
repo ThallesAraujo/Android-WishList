@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de desejos</string>
+    <string name="update_wish">Editar desejo</string>
+    <string name="add_wish">Adicionar desejo</string>
+    <string name="empty_wish_fields_error">Informe os campos para criar um desejo</string>
+    <string name="wish_created_message">O desejo foi criado</string>
+</resources>
